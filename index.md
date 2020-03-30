@@ -4,10 +4,10 @@ This Webapp would not be possible without the input from [Sixian Li](https://git
 <html>
     <body>
         <form action="https://course-map.api.tianshome.com/" target="_blank" name="form" id="form1" method="get">
-            <label for="courses">Courses that you want to take (*)</label><br>
-            <input type="text" id="courses" name="courses" value="MATH 236, COMP 302, COMP 360"><br>
-            <label for="courses_excluded">Courses that you are exempt from or have already taken (*)</label><br>
-            <input type="text" id="courses_excluded" name="courses_excluded" value="MATH 139, MATH 20299.79.139.178"><br>
+            <label for="courses">Courses that you want to take, all lower case (*)</label><br>
+            <input type="text" id="courses" name="courses" value="math 236, comp 302, comp 360"><br>
+            <label for="courses_excluded">Courses that you are exempt from or have already taken, all lower case (*)</label><br>
+            <input type="text" id="courses_excluded" name="courses_excluded" value="comp 139, math 202"><br>
             <br>
             <input type="submit" value="Submit ✔️">
         </form>

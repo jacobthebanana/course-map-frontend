@@ -1,7 +1,7 @@
 # Simply Course Map for McGill
-This Webapp would not be possible without the input from [Sixian Li](https://github.com/Deerhound579). If you like this project, make sure that you start Sixian' repo: https://github.com/Deerhound579/mcgill-course-map.
+This Webapp would not be possible without the input from [Sixian Li](https://github.com/Deerhound579). If you like this project, make sure that you start Sixian' repo: [https://github.com/Deerhound579/mcgill-course-map](https://github.com/Deerhound579/mcgill-course-map).
 
-Repo for the backend: https://github.com/jacobthebanana/mcgill-course-map/tree/dockerable.
+Repo for the backend: [https://github.com/jacobthebanana/mcgill-course-map/tree/dockerable](https://github.com/jacobthebanana/mcgill-course-map/tree/dockerable).
 
 <html>
     <body>
